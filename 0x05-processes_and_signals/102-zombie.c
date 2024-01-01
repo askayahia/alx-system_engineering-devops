@@ -4,7 +4,7 @@
 #include <unistd.h>
 
 /**
- * infinite_while - Creates an infinite loop
+ * infinite_while - To create an infinite loop.
  *
  * Return: Always 0.
  */
@@ -18,7 +18,7 @@ int infinite_while(void)
 }
 
 /**
- * main - Entry point
+ * main - Entry point.
  *
  * Return: Always 0.
  */
